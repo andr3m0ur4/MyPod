@@ -1,0 +1,24 @@
+body {
+    background-color: #eaf3da;
+}
+
+a {
+	text-decoration: none;
+}
+
+#principal {
+    width: 920px;
+    margin: 0 auto;
+    padding: 18px;
+}
+
+.foto {
+	border: 5px double #BDBDBD;
+	display: inline-block;
+}
+
+#rodape {
+	text-align: center;
+	font-weight: bold;
+	padding: 10px;
+}
